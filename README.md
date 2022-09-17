@@ -11,3 +11,7 @@ alteracao na main!
 alteracao da develop!
 
 =)
+
+# Como me sinto aprendendo git?
+
+Confiante!
