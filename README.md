@@ -6,4 +6,7 @@ Arquivo de exemplo para o treinamento de git da Iteris!!!
 
 texto
 
+alteracao na main
 alteracao da develop
+
+=)
