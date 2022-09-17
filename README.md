@@ -6,6 +6,8 @@ Arquivo de exemplo para o treinamento de git da Iteris!!!
 
 texto
 
-alteracao na main
+alteracao na main!
 
-teste de merge
+alteracao da develop!
+
+=)
